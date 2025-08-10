@@ -6,10 +6,7 @@
   </a>
 </p>
 
-
-<br>
-## **Sobre Mi**
-<br>
+<h1 align="left">Acerca de Mi</h1>
 
 - Soy un estudiante mexicano de 19 años con 2 años de experiencia en desarrollo frontend y backend. Actualmente me encuentro en formación académica y también trabajo como freelancer, desarrollando proyectos escolares y personales que me han permitido mejorar mis habilidades tanto técnicas como creativas. Me interesa crear sitios web funcionales, bien estructurados y visualmente agradables, que ayuden a resolver problemas reales de forma práctica.
 - Portafolio personal [link](https://www.0xabdulkhalid.ml)
@@ -146,3 +143,4 @@
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
+
