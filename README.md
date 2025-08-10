@@ -30,7 +30,7 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Astro](https://img.shields.io/badge/Astro-0F172A.svg?style=for-the-badge&logo=astro&logoColor=white)
 
-- **Bases de datos / BaaS**  
+- **Bases de datos**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
