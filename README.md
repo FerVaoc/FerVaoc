@@ -2,21 +2,17 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Freelancer,;Web+Developer,;Software+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Freelancer;Web+Developer;Software+Developer">
   </a>
 </p>
 
 
 <br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## **Sobre Mi**
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Soy un estudiante mexicano de 19 años con 2 años de experiencia en desarrollo frontend y backend. Actualmente me encuentro en formación académica y también trabajo como freelancer, desarrollando proyectos escolares y personales que me han permitido mejorar mis habilidades tanto técnicas como creativas. Me interesa crear sitios web funcionales, bien estructurados y visualmente agradables, que ayuden a resolver problemas reales de forma práctica.
+- Portafolio personal [link](https://www.0xabdulkhalid.ml)
 
 <br><br>
 
