@@ -8,7 +8,7 @@
 
 ### Acerca de Mí
 
-> Soy un estudiante mexicano de 19 años con 2 años de experiencia en desarrollo frontend y backend. Actualmente me encuentro en formación académica y también trabajo como freelancer, desarrollando proyectos escolares y personales que me han permitido mejorar mis habilidades tanto técnicas como creativas. Me interesa crear sitios web funcionales, bien estructurados y visualmente agradables, que ayuden a resolver problemas reales de forma práctica.
+> Soy un estudiante mexicano de 20 años con 2 años de experiencia en desarrollo frontend y backend. Actualmente me encuentro en formación académica y también trabajo como freelancer, desarrollando proyectos escolares y personales que me han permitido mejorar mis habilidades tanto técnicas como creativas. Me interesa crear sitios web funcionales, bien estructurados y visualmente agradables, que ayuden a resolver problemas reales de forma práctica.
 
 ### Stack Tecnológico
 
@@ -23,5 +23,5 @@
 
 ### Actividad en GitHub
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=FernandoVaoc&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e&icon_color=0ea5e9)](https://github.com/TU_USUARIO_DE_GITHUB)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVaoc&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e)](https://github.com/TU_USUARIO_DE_GITHUB)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=FernandoVaoc&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e&icon_color=0ea5e9)](https://github.com/FernandoVaoc)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVaoc&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e)](https://github.com/FernandoVaoc)
