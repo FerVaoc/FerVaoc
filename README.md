@@ -23,5 +23,5 @@
 
 ### Actividad en GitHub
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=FernandoVaoc&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e&icon_color=0ea5e9)](https://github.com/FernandoVaoc)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVaoc&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e)](https://github.com/FernandoVaoc)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=FernandoVaoc&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e&icon_color=0ea5e9&v=1)](https://github.com/FernandoVaoc)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVaoc&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=8b949e&v=1)](https://github.com/FernandoVaoc)
